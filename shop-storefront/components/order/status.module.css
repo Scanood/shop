@@ -1,0 +1,31 @@
+.danger {
+  @apply absolute inset-0 bg-red-200 opacity-50 rounded-full;
+}
+
+.dangerBackground {
+  @apply relative inline-block px-3 py-1 font-semibold text-red-900 leading-tight;
+}
+
+.success {
+  @apply absolute inset-0 bg-green-200 opacity-50 rounded-full;
+}
+
+.successBackground {
+  @apply relative inline-block px-3 py-1 font-semibold text-green-900 leading-tight;
+}
+
+.warning {
+  @apply absolute inset-0 bg-yellow-200 opacity-50 rounded-full;
+}
+
+.warningBackground {
+  @apply relative inline-block px-3 py-1 font-semibold text-yellow-900 leading-tight;
+}
+
+.info {
+  @apply absolute inset-0 bg-gray-200 opacity-50 rounded-full;
+}
+
+.infoBackground {
+  @apply relative inline-block px-3 py-1 font-semibold text-gray-900 leading-tight;
+}

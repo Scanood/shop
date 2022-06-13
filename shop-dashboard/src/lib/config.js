@@ -1,0 +1,1 @@
+export const IMG_URL = "https://123.57.246.188/"
